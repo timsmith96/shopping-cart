@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.52c5081d.css",
+    "main.js": "/shopping-cart/static/js/main.b9edca17.js",
+    "static/media/home-img.png": "/shopping-cart/static/media/home-img.20a8542ea924101e9c5b.png",
+    "static/media/tiger.png": "/shopping-cart/static/media/tiger.04e049b966eb22ffa711.png",
+    "static/media/zebra.png": "/shopping-cart/static/media/zebra.6706cc80d1e59d185613.png",
+    "static/media/meerkat.png": "/shopping-cart/static/media/meerkat.fa1b0233b7b474071c3a.png",
+    "static/media/rhino.png": "/shopping-cart/static/media/rhino.34f4198c9623f753cc5b.png",
+    "static/media/lion.png": "/shopping-cart/static/media/lion.45a8fd292d7b22278977.png",
+    "static/media/cattle.png": "/shopping-cart/static/media/cattle.2a269e166a589adbf46b.png",
+    "static/media/bird.png": "/shopping-cart/static/media/bird.bf924b59df1967ba3677.png",
+    "static/media/frog.png": "/shopping-cart/static/media/frog.094a8bad9c31c999a891.png",
+    "static/media/bison.png": "/shopping-cart/static/media/bison.feaa7487c05ddb12203d.png",
+    "static/media/hippo.png": "/shopping-cart/static/media/hippo.f98d602549d2920fc4ea.png",
+    "static/media/elephant.png": "/shopping-cart/static/media/elephant.0ab7f149273b8d4904ce.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.52c5081d.css.map": "/shopping-cart/static/css/main.52c5081d.css.map",
+    "main.b9edca17.js.map": "/shopping-cart/static/js/main.b9edca17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c5081d.css",
+    "static/js/main.b9edca17.js"
+  ]
+}
