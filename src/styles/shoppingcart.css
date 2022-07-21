@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 30px;
+}
+
+.shopping-cart {
+  position: absolute;
+  right: 0;
+  top: 100px;
+  background-color: #fff;
+  border: 1px solid black;
+  width: 700px;
+  gap: 20px;
+  text-align: center;
+}
+
+.rows-container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}

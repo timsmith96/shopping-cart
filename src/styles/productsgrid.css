@@ -1,0 +1,22 @@
+.products-title {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90vw;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.hide {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+/* .show {
+  background: purple;
+} */

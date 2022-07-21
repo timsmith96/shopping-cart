@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  border-bottom: 1px solid #000;
+}
+
+.title a:hover {
+  color: #64748b;
+}
+
+.nav-link a:hover {
+  color: #64748b;
+}
+
+.navbar-icon {
+  height: 60px;
+  width: 60px;
+}
+
+.nav-links-list {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.cart-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.cart-icon:hover {
+  cursor: pointer;
+}
+
+.cart-icon-container {
+  position: relative;
+}
