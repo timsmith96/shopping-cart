@@ -1,4 +1,5 @@
 import './styles/navbar.css';
+import { Link } from 'react-router-dom';
 
 const Navbar = ({ cartItems, handleCartClick }) => {
   const totalItems = cartItems.reduce((a, b) => {
@@ -12,15 +13,15 @@ const Navbar = ({ cartItems, handleCartClick }) => {
         alt="penguin"
       />{' '}
       <h1 className="title">
-        <a href="/">Animal shop</a>
+        <Link to="/">Animal shop</Link>
       </h1>
       <ul className="nav-links-list">
         <li className="nav-link">
-          <a href="/">Home</a>{' '}
+          <Link to="/">Home</Link>{' '}
         </li>
         <li className="nav-link">
           {' '}
-          <a href="/shop">Products</a>{' '}
+          <Link to="/shop">Products</Link>{' '}
         </li>
         {cartItems.length > 0 && (
           <div className="cart-icon-container" onClick={handleCartClick}>

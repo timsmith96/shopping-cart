@@ -1,4 +1,5 @@
 import '../styles/homepage.css';
+import { Link } from 'react-router-dom';
 
 const HomeContent = () => {
   return (
@@ -10,9 +11,9 @@ const HomeContent = () => {
           src={require('../img/home-img.png')}
           alt=""
         />
-        <a className="shop-now-btn" href="/shop">
+        <Link className="shop-now-btn" to="/shop">
           Shop now
-        </a>
+        </Link>
       </div>
     </main>
   );
